@@ -3,7 +3,7 @@ title: Day 83
 date: 2021-04-12 13:28:00 -07:00
 description: '"Accidental discharge."'
 image: "/uploads/day93-biden.jpg"
-todayInOneSentence: The White House put the creation a national police oversight commission
+todayInOneSentence: The White House put the creation of a national police oversight commission
   on hold; Biden called for an investigation into the police officer who shot and
   killed a 20-year-old Black man in a Minneapolis suburb; the U.S. administered 4.6
   million vaccine doses on Saturday; Michigan's average daily case count jumped about
